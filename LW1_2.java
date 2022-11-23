@@ -33,7 +33,7 @@ class Season {
             System.out.println("Весна");
         }
         if (month == 6 || month == 7 || month == 8 ) {
-            System.out.println("Осень");
+            System.out.println("Лето");
         }
     }
 }
